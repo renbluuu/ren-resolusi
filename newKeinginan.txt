@@ -5,3 +5,5 @@ Mempelajari Hal Baru
 -Golang
 -Laravel
 -C++
+-HTML
+-Java
