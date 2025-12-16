@@ -1,0 +1,7 @@
+Mempelajari Hal Baru
+-CSS
+-JS
+-PHP
+-Golang
+-Laravel
+-C++
