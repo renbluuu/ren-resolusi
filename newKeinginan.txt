@@ -5,3 +5,4 @@ Mempelajari Hal Baru
 -Golang
 -Laravel
 -C++
+-Pyhton
